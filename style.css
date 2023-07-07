@@ -80,9 +80,10 @@ p {
     color: hsl(229, 23%, 23%, 70%);
 }
 
-h3 {
+h2 {
     color: hsl(229, 23%, 23%);
     font-weight: 700px;
+    font-size: 22px;
 }
 
 .footer {
